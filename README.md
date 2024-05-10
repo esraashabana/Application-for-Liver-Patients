@@ -1,42 +1,41 @@
 
 Project Overview 📱
-Our mobile application serves two main user categories: patients and doctors. Below is an outline of the key features and screens of our app.
+Our mobile application caters to two primary user categories: patients and doctors. Below, you'll find an overview of the app's key features and screens.
 
-Screens and Features
+Screens and Features:-
 Splash, Sign up & Selection Screens
-Users are greeted with a welcoming splash screen upon opening the app.
-New users can easily sign up or log in to their existing account.
-They then choose their role as either a patient or a doctor, guiding the app experience.
+Welcome users with an engaging splash screen upon app launch.
+Simple and intuitive sign-up or login process.
+Users select their role (patient or doctor) to customize their experience.
 Confirmation, Fill Profile & Home Screens
-Doctors are prompted to upload their license for verification.
-Users complete their detailed profiles to personalize their experience.
-The home screen offers a comprehensive dashboard with specific features tailored to each user type.
+Doctors complete license verification during sign-up.
+Detailed profile setup enhances user personalization.
+Home screen presents a tailored dashboard with relevant features.
 Doctor Profile, Details of Doctor & Lab Screens
-Patients can explore detailed profiles of doctors and laboratories.
-Doctors gain insights into patient profiles and laboratory information for better recommendations.
+Patients can access comprehensive profiles of doctors and labs.
+Doctors gain insights into patient profiles and lab details for informed recommendations.
 Book Appointment, Payment Method & Review Summary Screens
-Patients can effortlessly schedule appointments with preferred doctors or labs.
-Convenient payment methods ensure a seamless experience.
-Summary reviews provide a quick overview of appointment details.
+Conveniently book appointments with preferred healthcare providers.
+Flexible payment methods ensure a seamless transaction experience.
+Summary reviews offer quick insights into appointment specifics.
 Offer, Notifications & Set Reminder
-Patients can redeem special offers using unique codes obtained from doctors.
-Customizable reminders keep users informed about appointments and medication schedules.
-Real-time notifications keep both patients and doctors updated.
+Patients can redeem exclusive offers provided by doctors.
+Customizable reminders keep users informed about important schedules.
+Real-time notifications ensure users stay updated on app activities.
 Add Medicine, Prescribed Medicines & Medicine Alarm Screens
-Patients manage their medications by adding and editing details.
-Doctors can prescribe and modify medications for their patients.
-Medicine alarms help patients adhere to their treatment plans effectively.
+Patients manage medication details, ensuring adherence to treatment plans.
+Doctors prescribe and modify medications as needed for patients.
+Medicine alarms assist patients in timely medication intake.
 Appointments Screens
-Users can view and manage all their appointments conveniently.
+View and manage all scheduled appointments conveniently within the app.
 Patient’s List, Profile Setting & Add Review Screens
-Doctors have easy access to a list of their patients for streamlined management.
-Users can personalize their profiles and leave valuable feedback through reviews.
+Doctors efficiently manage patient lists for streamlined care.
+Users personalize their profiles and provide valuable feedback through reviews.
 Chat, Patient Report & Diagnosis Result Screens
-Seamless chat functionality allows users to communicate directly within the app.
-Doctors can view detailed patient reports and manage diagnosis results efficiently.
+Seamless chat functionality facilitates direct communication between users.
+Doctors access detailed patient reports and manage diagnosis outcomes effectively.
 Lifestyle, Recommended Exercises & Foods to Eat Screens
-Patients receive personalized lifestyle recommendations.
-Access to recommended exercises and dietary guidelines ensures holistic care.
+Receive personalized lifestyle recommendations, including exercises and dietary guidelines.
 Screenshots 📸
 Included below are screenshots referenced in the description:
 
