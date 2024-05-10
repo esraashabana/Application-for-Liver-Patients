@@ -1,4 +1,4 @@
-Title:  [Hepatica] - Mobile App for Patients and Doctors (Clear and concise)
+---Hepatica- Mobile App for Patients and Doctors
 
 Table of Contents (Optional):  Great for longer READMEs, consider including one.
 
