@@ -1,4 +1,4 @@
-![image](https://github.com/esraashabana/Application-for-Liver-Patients/assets/104281057/f56e3e04-74d3-4c8c-8409-ba1059313eb2)# Hepatica
+# Hepatica
 
 Hepatica is a mobile application designed to provide a seamless healthcare experience for both patients and doctors. The app allows users to book appointments, manage medications, communicate with healthcare providers, and receive personalized health recommendations.
 
