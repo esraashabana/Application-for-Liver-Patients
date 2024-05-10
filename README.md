@@ -1,10 +1,10 @@
-# MyHealthApp
+# Hepatica
 
-MyHealthApp is a mobile application designed to provide a seamless healthcare experience for both patients and doctors. The app allows users to book appointments, manage medications, communicate with healthcare providers, and receive personalized health recommendations.
+Hepatica is a mobile application designed to provide a seamless healthcare experience for both patients and doctors. The app allows users to book appointments, manage medications, communicate with healthcare providers, and receive personalized health recommendations.
 
 ## Project Overview 📱
 
-MyHealthApp caters to two primary user categories: patients and doctors. Patients can easily book appointments, manage their medications, and access personalized health recommendations. Doctors can view patient profiles, manage appointments, and communicate with patients directly through the app.
+Our App caters to two primary user categories: patients and doctors. Patients can easily book appointments, manage their medications, and access personalized health recommendations. Doctors can view patient profiles, manage appointments, and communicate with patients directly through the app.
 
 ---
 
@@ -13,6 +13,7 @@ MyHealthApp caters to two primary user categories: patients and doctors. Patient
 1. **Splash, Sign up & Selection Screens**
    - Engaging splash screen upon app launch.
    - Simple sign-up/login process with role selection (patient or doctor).
+   - [![image](https://github.com/esraashabana/Application-for-Liver-Patients/assets/104281057/58b9ca80-eea8-4e64-954c-d97d87236abb)]
 
 2. **Confirmation, Fill Profile & Home Screens**
    - Doctors complete license verification during sign-up.
